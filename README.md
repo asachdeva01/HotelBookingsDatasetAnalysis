@@ -1,8 +1,7 @@
-# Hotel Revenue Optimization Analysis
+# Hotel Cancellation Analysis
 # Course: DSE 501 - Statistics for Data Analysts
 # Institution: Arizona State University
 # Semester: Fall 2025
-# Team: Group 23
 
 ## Project Overview
 This project analyzes 119,390 hotel booking records from City and Resort hotels to identify factors driving cancellations and provide actionable revenue optimization strategies. We combined statistical hypothesis testing with machine learning to validate insights and build predictive models.
@@ -27,6 +26,7 @@ I led the correlation analysis examining how market segments and distribution ch
 - Resort hotels show different channel dynamics than City hotels, requiring segment-specific strategies
 
 **2. Feature Engineering & Pre-Processing**
+
 I contributed to the data preparation pipeline, focusing on creating derived features that enhance model interpretability and predictive power.
 
 **Features Engineered:**
