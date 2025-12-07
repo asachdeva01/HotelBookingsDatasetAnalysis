@@ -12,6 +12,7 @@ High cancellation rates cause lost revenue and underutilized room capacity. This
 
 ## My Contributions
 **1. Market Segment & Distribution Channel Analysis**
+
 I led the correlation analysis examining how market segments and distribution channels impact cancellations and Average Daily Rate (ADR) across hotel types.
 
 **Key Analyses:**
