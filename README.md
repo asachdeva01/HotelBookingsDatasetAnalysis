@@ -1,6 +1,8 @@
 # Hotel Cancellation Analysis
 **Course: DSE 501 - Statistics for Data Analysts**
+
 **Institution: Arizona State University**
+
 **Semester: Fall 2025**
 
 ## Project Overview
