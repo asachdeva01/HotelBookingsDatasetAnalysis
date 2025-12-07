@@ -1,7 +1,7 @@
 # Hotel Cancellation Analysis
-# Course: DSE 501 - Statistics for Data Analysts
-# Institution: Arizona State University
-# Semester: Fall 2025
+**Course: DSE 501 - Statistics for Data Analysts**
+**Institution: Arizona State University**
+**Semester: Fall 2025**
 
 ## Project Overview
 This project analyzes 119,390 hotel booking records from City and Resort hotels to identify factors driving cancellations and provide actionable revenue optimization strategies. We combined statistical hypothesis testing with machine learning to validate insights and build predictive models.
