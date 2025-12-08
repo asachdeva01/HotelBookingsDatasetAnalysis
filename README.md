@@ -38,7 +38,21 @@ I contributed to the data preparation pipeline, focusing on creating derived fea
 
 **Pre-Processing Contributions:**
 - Handled missing values in children, country, and agent columns
-- Assisted in removing high-cardinality and irrelevant columns to streamline the model
+- Removed high-cardinality and irrelevant columns to streamline the model
+
+**3. Machine Learning Pipeline**
+
+I built the end-to-end ML pipeline (pipeline.py) for predicting booking cancellations.
+
+**Pipeline Architecture:**
+Data Loading → Feature Engineering → Feature Selection → Preprocessing → Model Training → Evaluation
+
+**Results Achieved:**
+- Random Forest outperformed Logistic Regression across all metrics
+- ROC-AUC validated with 5-fold cross-validation for robust estimates
+- Top predictive features identified: lead_time, deposit_type, adr, market_segment
+- rf accuracy = 85%
+- lr accuracy = 79%
 
 **Key Findings:**
 - Lead Time: Longer lead times strongly correlate with higher cancellation probability
