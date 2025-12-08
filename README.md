@@ -45,6 +45,7 @@ I contributed to the data preparation pipeline, focusing on creating derived fea
 I built the end-to-end ML pipeline (pipeline.py) for predicting booking cancellations.
 
 **Pipeline Architecture:**
+
 Data Loading → Feature Engineering → Feature Selection → Preprocessing → Model Training → Evaluation
 
 **Results Achieved:**
